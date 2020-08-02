@@ -40,7 +40,7 @@ dependencies {
     implementation libraries.drawerlayout
 
     implementation project(":QuickLibrary")
-//    implementation libraries.QuickAndroid
+//    implementation libraries.QuickAndroidX
 
     annotationProcessor libraries.arouterCompiler
 }

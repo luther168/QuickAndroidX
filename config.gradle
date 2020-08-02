@@ -30,7 +30,7 @@ project.ext {
 
             // Utils
             utilcodex                    : "com.blankj:utilcodex:1.29.0",
-            QuickAndroid                 : "com.github.luther168:QuickAndroid:1.1.2",
+            QuickAndroidX                 : "com.github.luther168:QuickAndroidX:1.1.3",
 
             // Popup
             xpopup                       : "com.lxj:xpopup:2.0.8",
